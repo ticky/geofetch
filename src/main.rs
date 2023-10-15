@@ -14,7 +14,7 @@ fn get_size() -> String {
     let mem_size = Value::new_with(memory_bits as f64, Base::B1024, Constraint::UnitAndAbove);
     let prefix_string = format!("{:?}", mem_size.prefix).to_uppercase();
 
-    format!("{} {}", mem_size.mantissa, prefix_string)
+    format!("{:.0} {}", mem_size.mantissa, prefix_string)
 }
 
 fn get_os() -> String {

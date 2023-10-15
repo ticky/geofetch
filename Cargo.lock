@@ -50,7 +50,7 @@ checksum = "4742a071cd9694fc86f9fa1a08fa3e53d40cc899d7ee532295da2d085639fbc5"
 
 [[package]]
 name = "geofetch"
-version = "1.0.2"
+version = "1.0.3"
 dependencies = [
  "figlet-rs",
  "os_info",
