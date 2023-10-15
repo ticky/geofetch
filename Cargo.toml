@@ -1,5 +1,6 @@
 [package]
 name = "geofetch"
+description = "A system information utility for an extremely small subset of people"
 version = "1.0.0"
 license = "MIT OR Apache-2.0"
 edition = "2021"
