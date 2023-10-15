@@ -1,7 +1,7 @@
 [package]
 name = "geofetch"
 description = "A system information utility for an extremely small subset of people"
-version = "1.0.0"
+version = "1.0.2"
 license = "MIT OR Apache-2.0"
 edition = "2021"
 repository = "https://github.com/ticky/geofetch.git"
